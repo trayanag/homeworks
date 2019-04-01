@@ -7,9 +7,7 @@ function solve(input) {
         for (let i = 0; i < count; i++) {
             product *= Number(input[i]);
         }
-        if (product > max) {
-            max = product;
-        }
+       
     }
 
     console.log(max);
