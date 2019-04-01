@@ -1,7 +1,4 @@
 function solve(input) {
     let max = -Infinity;
-    while (input.length > 0) {
-        let count = Number(input.shift());
-      = 1;
-    
+
 }
