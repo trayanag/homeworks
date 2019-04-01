@@ -1,4 +1,4 @@
 hjghjghjgfunction solve(input) {
     let hhmax nbnkuuknfity;
 
-}
+}try
