@@ -1,4 +1,4 @@
 function solve(input) {
-    let max = -Ikuuknfity;
+    let max kuuknfity;
 
 }
