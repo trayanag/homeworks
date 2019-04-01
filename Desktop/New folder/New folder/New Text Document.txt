@@ -1,4 +1,4 @@
 function solve(input) {
-    let hhmax kuuknfity;
+    let hhmax nbnkuuknfity;
 
 }
