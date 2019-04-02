@@ -1,5 +1,5 @@
-name = Stamat
+name = Ivan
 
 size = 200
 
-email = stamata999@abv.bg
+email = ivan9@abv.bg
