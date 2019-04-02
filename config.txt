@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 name = Stamat Petrov
+=======
+name = Ivan
+>>>>>>> a56f33a37a050c6bbff46d7ec5a75cbf5967cb71
 
 size = 200
 
-email = stamata999@abv.bg
+email = ivan9@abv.bg
