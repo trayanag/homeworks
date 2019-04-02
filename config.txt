@@ -1,4 +1,4 @@
-name = Stamat
+name = Stamat Petrov
 
 size = 200
 
