@@ -1,0 +1,5 @@
+name = Stamat
+
+size = 200
+
+email = stamata999@abv.bg
